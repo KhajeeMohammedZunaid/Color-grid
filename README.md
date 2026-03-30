@@ -2,7 +2,7 @@
 
 ColorGrid is a beautiful, infinite color palette generator and collection tool. Discover, generate, and save stunning color palettes for your next project.
 
-![ColorGrid logo](public/assets/logo.png)
+<img src="public/assets/logo.png" alt="ColorGrid logo" width="140" />
 
 ## Features
 
@@ -28,7 +28,7 @@ ColorGrid is a beautiful, infinite color palette generator and collection tool. 
 - TypeScript
 - Vite
 - Tailwind CSS v4
-- Framer Motion
+- Motion React (`motion/react`)
 - Lucide React
 - React Router
 

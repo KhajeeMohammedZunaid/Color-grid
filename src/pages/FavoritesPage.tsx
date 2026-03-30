@@ -49,7 +49,7 @@ export function FavoritesPage() {
         </div>
         <h2 className="text-2xl font-bold text-gray-900 mb-2">No favorites yet</h2>
         <p className="text-gray-500 max-w-md">
-          Start exploring palettes and click the heart icon to save your favorites here. They'll be securely stored in your browser.
+          Explore palettes and tap the heart to save favorites.
         </p>
       </motion.main>
     );
