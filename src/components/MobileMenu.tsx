@@ -23,7 +23,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
-            transition={{ duration: 0.2 }}
+            transition={{ duration: 0.28 }}
             onClick={onClose}
             className="fixed inset-0 bg-black/25 z-[100] md:hidden will-change-[opacity]"
           />
@@ -31,7 +31,7 @@ export function MobileMenu({ isOpen, onClose }: MobileMenuProps) {
             initial={{ x: '100%' }}
             animate={{ x: 0 }}
             exit={{ x: '100%' }}
-            transition={{ type: 'tween', ease: [0.22, 1, 0.36, 1], duration: 0.22 }}
+            transition={{ type: 'tween', ease: [0.22, 1, 0.36, 1], duration: 0.32 }}
             className="fixed top-0 right-0 bottom-0 w-[80vw] max-w-sm bg-white z-[101] shadow-2xl flex flex-col md:hidden transform-gpu will-change-transform"
           >
             <div className="h-16 flex items-center justify-between px-4 border-b border-gray-100 shrink-0">
