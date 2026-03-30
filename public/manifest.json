@@ -1,0 +1,16 @@
+{
+  "name": "ColorGrid - Infinite Color Palettes",
+  "short_name": "ColorGrid",
+  "description": "Discover, generate, and save beautiful color palettes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#FAFAFA",
+  "icons": [
+    {
+      "src": "/assets/fav.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colorgrid.app/sitemap.xml
+Host: colorgrid.app
